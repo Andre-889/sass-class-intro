@@ -8,6 +8,16 @@ main #section-two {
   color: green;
 }
 
+#section-one {
+  background-color: #188;
+  color: #780;
+}
+
+#section-two {
+  background-color: #188;
+  color: #780;
+}
+
 body {
   background-color: burlywood;
 }

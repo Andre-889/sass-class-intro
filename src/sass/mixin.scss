@@ -1,0 +1,13 @@
+@mixin color-invertido {
+    background-color: #188;
+    color: #780;
+  }
+
+ #section-one {
+    @include color-invertido;
+    }
+
+ #section-two {
+    @include color-invertido;
+    }
+  
